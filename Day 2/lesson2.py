@@ -1,0 +1,3 @@
+print ("GOA-shi gavicani 20 razmis lideri mate romelic mexmareba davalebebis dawerashi da sirtuleebis gadalaxvashi. aseve gavicani mari da nika maswavleblebi. isini mexmarebian programirebis da grapikuli dizainis swavlashi swavlashi")
+
+print ("GOA aris garemo sadac programirbis da zogadad kompiutershi dainteresebuli bavshvebi vikribebit. chemi azrit, GOA aris dzalian kargi garemo kompiuteris shesaswavlad, radgan aq igive intrsebis mqone adamianis povna martivia. yvela ertmanets exmareba,megobruli garemoa, kargi damokidebuleba aqvt mentorebs da dzalian sainteresoa. me piradad didi moivacia momeca  da maqvs survili rom sakutari tamashi shevqmna. ")
