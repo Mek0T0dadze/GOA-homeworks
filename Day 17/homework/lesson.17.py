@@ -1,4 +1,9 @@
 #1
+name="Meko"
+print(name.upper())
+print(name.lower())
+print(name.capitalize())
+print(name.find())
 #2
 def list(name,find_value):
     for index in name:
