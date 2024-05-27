@@ -1,12 +1,12 @@
 #1
-#def manual_pop(list,list_index):
-    #new_colection=[]
-    #for index in range(0,len(list)):
-        #if index!=list_index:
-            #new_colection=new_colection.append(list[index])
-        #return new_colection
-#names=["meko","babi","mari"]
-#print(manual_pop(names,2))
+def manual_pop(list,list_index):
+    new_colection=[]
+    for index in range(0,len(list)):
+        if index!=list_index:
+            new_colection=new_colection.append(list[index])
+        return new_colection
+names=["meko","babi","mari"]
+print(manual_pop(names,2))
 
 #2
 
@@ -43,3 +43,20 @@ def manual_min(numbers):
             miniest_num=miniest_num+numbers
     return miniest_num
 print(manual_min([1,2,3,4,5,6,7,8,9,10]))
+#4
+def manual_max(numbers):
+    maxest_num=[]
+    for index in numbers:
+        if index>numbers:
+            maxest_num=maxest_num+numbers
+    return maxest_num
+print(manual_max([4,6,3,7]))
+
+def manual_max(numbers):
+    maxest_num=[]
+    for index in numbers:
+        if index>numbers:
+            maxest_num=maxest_num+numbers
+    return maxest_num
+print(manual_max([1,2,3,4,5,6,7,8,9,10]))
+
