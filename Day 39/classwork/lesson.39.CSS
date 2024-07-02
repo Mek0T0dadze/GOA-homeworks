@@ -1,0 +1,6 @@
+.hello{
+    content: 30px 300px;
+    border: 5px solid red;
+    padding: 20px 40px 30px 10px;
+    margin: 40px 20px;
+}

@@ -1,0 +1,220 @@
+/*tokyo,japan*/
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border-radius: 5%;
+    box-shadow: -5%, 5%, 10% black;
+}
+
+.main{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+.img-div{
+    width: 200px;
+    height: 200px;
+    background-image: url('./lesson.41.avif');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+
+.child{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    background-color:  rgba(139, 32, 116, 0.5);
+    padding-top: 80px;
+  
+}
+
+.child h1{
+    font-size: 20px;
+}
+
+.child p{
+    font-size: 15px;
+}
+
+/*nyc,america*/
+.img-div1{
+    width: 200px;
+    height: 200px;
+    background-image: url('./lesson.41.1.avif');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+
+.child1{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(117, 165, 236, 0.5);
+    padding-top: 80px;
+}
+
+.child1 h1{
+    font-size: 20px;
+}
+.child1 p{
+    font-size: 15px;
+}
+
+/*seoul,korea*/
+.img-div2{
+    width: 200px;
+    height: 200px;
+    background-image: url(./lesson.41.2.avif);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-position-y: top;
+}
+
+
+.child2{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(117, 165, 236, 0.5);
+    padding-top: 80px;
+}
+
+.child2 h1{
+    font-size: 20px;
+}
+
+.child2 p{
+    font-size: 15px;
+}
+
+
+.img-div3{
+    width: 200px;
+    height: 200px;
+    background-image: url(./lesson.41.4.avif);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-position-y: top;
+}
+
+
+.child3{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(139, 32, 116, 0.5);
+    padding-top: 80px;
+}
+
+.child3 h1{
+    font-size: 20px;
+}
+
+.child3 p{
+    font-size: 15px;
+}
+
+
+.img-div4{
+    width: 200px;
+    height: 200px;
+    background-image: url(./lesson.41.3.avif);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-position-y: top;
+}
+
+
+.child4{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(117, 165, 236, 0.5);
+    padding-top: 80px;
+}
+
+.child4 h1{
+    font-size: 20px;
+}
+
+.child4 p{
+    font-size: 15px;
+}
+
+.img-div5{
+    width: 200px;
+    height: 200px;
+    background-image: url(./lesson.41.3.avif);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-position-y: top;
+}
+
+
+.child5{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(117, 165, 236, 0.5);
+    padding-top: 80px;
+}
+
+.child5 h1{
+    font-size: 20px;
+}
+
+.child5 p{
+    font-size: 15px;
+}
+
+.img-div6{
+    width: 200px;
+    height: 200px;
+    background-image: url(./lesson.41.5.avif);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-position-y: top;
+}
+
+
+.child6{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(139, 32, 116, 0.5);
+    padding-top: 80px;
+}
+
+.child6 h1{
+    font-size: 20px;
+}
+
+.child6 p{
+    font-size: 15px;
+}
+
+
+
+.main2{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}

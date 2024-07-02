@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+
+}
+
+.div{
+    height: 300px;
+    width: 0px;
+    background-image: url(./lesson.41.7.png);
+    border-radius: 5%;
+    padding-left: 20px;
+}
+.div1{
+    height: 50px;
+    width: 50px;
+    background-image: url(./lesson.41.6.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+.text{
+    margin: 0;
+    background: linear-gradient(to right, #220041, #99630C);
+    -webkit-background-clip: text; 
+    color: transparent; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: left; 
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+.text2{
+   text-align: left;
+   font-family: 'Roboto', sans-serif;
+   padding-top: 10px;
+   font-weight: 100;
+}
+
+.text3{
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-div{
+    background-image: url(./lesson.41.7.png);
+    background-image: linear-gradient(to right, #220041, #99630C);
+
+    width: 90px;
+    height: 30px;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+
+.img-div p{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    padding-top: 5px;
+}

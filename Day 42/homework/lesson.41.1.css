@@ -1,0 +1,22 @@
+body {
+    display: flex;
+}
+
+.f{
+    text-align: left;
+}
+
+.a{
+    margin-left: 700px;
+}
+.b, .c, .d{
+    margin-left: 20px;
+}
+
+button{
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10%;
+    background-color: purple;
+    color: white;
+}
